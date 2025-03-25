@@ -50,7 +50,7 @@ I am open to new job opportunities and collaborations. Let’s connect and build
 ---
 
 ## 📜 Certifications
-- **Spring Framework:** Spring Boot, JPA, Thymeleaf, Web MVC, REST issuedby Udemy
+- **Spring Framework:** Spring Boot, JPA, Thymeleaf, Web MVC, REST issued by Udemy
 
 ---
 
