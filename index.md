@@ -30,22 +30,40 @@ I am open to new job opportunities and collaborations. Let’s connect and build
 
 ## 💼 Experience
 
-### **CCV Lab - Software Engineer** *(Sep 2023 - Mar 2025)*  
-- **Backend & Android Development**: Contributed to three major Java Spring applications.  
-  - **OCPI Integration**: Helped design and implement an **EV charging system** using OCPI standards.  
-  - **Cloud Payment API**: Refactored and maintained a transaction management system (PostgreSQL, Docker).  
-  - **CCV - SalesPoint**: Added new features and performed refactoring on the Android + Web UI system.  
-- **DevOps**: Worked with **GitLab CI/CD**, Kubernetes, and Terraform for deployments.  
+### **CCV Lab**  
+**Software Engineer**  
+*09/2023 - 03/2025*
 
-### **Robaws - Full Stack Developer** *(Aug 2021 - Aug 2023)*  
-- **ERP System**: Maintained and developed new features for a **Java Spring-based ERP**.  
-- **Mobile Apps**: Led development for two **Flutter applications**:  
-  - **Robaws App**: CRUD operations for business workflows.  
-  - **Wappy**: Time tracking, GPS, and stock management.  
-- **Deployment**: Managed releases on **App Store & Google Play** via Codemagic CI/CD.  
+**Java Spring & Android Development**: Contributed to three major projects, spanning from backend systems to Android terminals.
+- Helped design and implement an EV charging backend in line with OCPI standards.
+- Refactored and maintained a cloud-based payment API responsible for orchestrating transactions on payment terminals.
+- Added new features and performed refactoring on the Spring REST API and the Android-based terminals for the SalesPoint platform.
 
-### **Bel&Bo - Intern .NET Developer** *(Feb 2021 - May 2021)*  
-- Built an internal application with **C#/.NET** and authored a thesis comparing **low-code platforms** to custom solutions.  
+### **Robaws**  
+**Medior Fullstack Developer**  
+*08/2021 - 08/2023*
+
+**Full-Stack Development**: Worked across the entire tech stack, contributing to backend systems, web front-ends, and mobile applications.
+- Developed and maintained the core application's back-end and front-end for a leading cloud-based ERP solution in Belgium.
+- Led the development of two mobile applications, enhancing business workflows and on-site worker productivity.
+- Contributed to integration efforts with third-party services, ensuring seamless connectivity and functionality.
+
+### **Bel&Bo**  
+**Intern .NET Developer**  
+*02/2021 - 05/2021*
+
+---
+
+## 🎓 Education
+
+### **Bachelor of Applied Computer Science**  
+**Software and Systems Engineer**  
+*HOWEST Bruges*  
+*2017 - 2021*
+
+### **IT Management**  
+*Burgerschool Roeselare*  
+*2010 - 2017*
 
 ---
 
