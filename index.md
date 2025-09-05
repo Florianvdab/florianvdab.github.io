@@ -32,7 +32,7 @@ I am open to new job opportunities and collaborations. Let’s connect and build
 
 ### **The Beehive**  
 **Full Stack Developer**  
-*Currently*
+*06/2025 - NOW*
 
 ### **CCV Lab**  
 **Software Engineer**  
