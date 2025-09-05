@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I’m **Florian Vandenabeele**, a passionate **Software Engineer** with expertise in Java, Spring, and Kotlin. I have almost **four years of experience** in backend and full-stack development, working on large-scale applications, payment systems, and mobile apps. I'm always eager to explore new technologies and build innovative solutions.
+I’m **Florian Vandenabeele**, a passionate **Software Engineer** with expertise in Java, Spring, and Kotlin. I have **four years of experience** in backend and full-stack development, working on large-scale applications, payment systems, and mobile apps. I'm always eager to explore new technologies and build innovative solutions.
 
 ---
 
@@ -29,6 +29,10 @@ I am open to new job opportunities and collaborations. Let’s connect and build
 ---
 
 ## 💼 Experience
+
+### **The Beehive**  
+**Full Stack Developer**  
+*Currently*
 
 ### **CCV Lab**  
 **Software Engineer**  
