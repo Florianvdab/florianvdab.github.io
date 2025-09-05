@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Florian Vandenabeele"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Software Engineer 💻"
+  bio    : "🐝 Full Stack Developer 💻"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
